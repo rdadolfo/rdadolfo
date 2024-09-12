@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rdadolfo
 - 👀 I’m interested in Machine Learning specially in Natural Language Processing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Filipino NLP
 - 📫 How to reach me ...
 
 <!---
